@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>1. Предмет Договора
+
+1.1. В соответствии с настоящим Договором Арендодатель обязуется передать Арендатору во временное краткосрочное владение и пользование без оказания услуг по управлению и технической эксплуатации за плату в качестве объекта аренды транспортное средство (далее - Автомобиль), принадлежащее ему на праве собственности (вариант: находящееся у Арендодателя в аренде), а Арендатор по истечении срока аренды возвращает транспортное средство в исправном состоянии с учетом его нормального износа.
+1.2. Арендатор может воспользоваться любым транспортным средством, находящимся на специализированных стоянках Арендодателя, путем автоматизированной системы бронирования и проката Автомобиля.
+1.3. При заключении настоящего Договора Арендатору выдается карта доступа, при помощи которой Арендатор может открыть любой предварительно забронированный им Автомобиль на специализированной стоянке Арендатора. При этом ключ зажигания находится непосредственно в салоне Автомобиля.
+1.4. Полные сведения об арендуемом автомобиле, сроке аренды и  указываются.
+
+2. Обязательства Сторон
+
+2.1. Арендодатель обязан:
+2.1.1. Предоставлять Арендатору Автомобиль в технически исправном состоянии, полностью укомплектованным, соответствующим целям и задачам использования.
+2.1.2. Предоставлять Автомобиль не старше лет с даты его изготовления заводом-производителем.
+2.1.3. Обеспечить нахождение в Автомобиле всех необходимых документов, относящихся к Автомобилю и необходимых для его эксплуатации.
+2.1.4. Застраховать Автомобиль по полисам ОСАГО, каско на весь период действия отдельного договора. Страхование каско не должно иметь ограничений по условиям хранения автотранспорта, в том числе и в ночное время.
+2.1.5. Обеспечить 50% уровня топлива в Автомобиле.
+2.2. Арендатор обязан:
+2.2.1. Иметь водительские права категории "B" и стаж вождения автомобиля не менее 1 года.
+2.2.2. Своевременно оповещать Арендатора о повреждении Автомобиля, об отсутствии каких-либо документов, относящихся к непосредственной эксплуатации Автомобиля, о низком уровне топлива, о загрязнении салона или о любой другой проблеме.
+2.2.3. По окончании поездки обеспечить первоначальную внешнюю чистоту салона Автомобиля.
+2.2.4. Обеспечить минимум 50% уровня топлива в бензобаке. В случае необходимости дозаправки Автомобиля использовать топливную карту, находящуюся в специальном терминале в Автомобиле, и только топливом 95
+2.2.5. Вернуть Автомобиль на ту специализированную стоянку Арендодателя, с которой Автомобиль был взят.
+2.2.6. После завершения бронирования Автомобиля закрыть его картой-ключом.
+2.2.7. Не передавать карту-ключ третьим лицам.
+
+3. Финансовые условия
+
+3.1. Размер оплаты за пользование Автомобилем может быть как поминутной/почасовой, так и посуточной. Тарифы на прокат Автомобиля согласовываются Сторонами являющемуся его неотъемлемой частью.
+3.2. Оплата времени аренды Автомобиля производится путем внесения наличных денежных средств на личный счет, открытый Арендодателем, или же безналичным расчетом банковской картой после окончания бронирования Автомобиля.
+3.3. Арендатор уплачивает Арендодателю залог в размере 20тыс. рублей в момент подписания настоящего Договора, который возвращается Арендатору в течение 1 дней с момента прекращения настоящего Договора.
+
+4. Ответственность Сторон и форс-мажорные обстоятельства
+
+4.1. За неисполнение или ненадлежащее исполнение обязательств по настоящему Договору Стороны несут ответственность, предусмотренную действующим законодательством Российской Федерации.
+4.2. Арендатор несет ответственность:
+4.2.1. За повреждения Автомобиля, полученные в результате дорожно-транспортного происшествия по вине Арендатора, произошедшего из-за нарушения Арендатором иных правил дорожного движения, включая нарушение скоростного режима, зафиксированное системой спутникового (ГЛОНАСС/GPS) мониторинга транспорта.
+4.2.2. За ущерб, нанесенный в результате предоставления ключей от Автомобиля и/или карты доступа к Автомобилю третьим лицам.
+4.2.3. За ущерб, нанесенный в результате оставления Автомобиля открытым во время или по окончании бронирования.
+4.2.4. За ущерб, нанесенный в результате парковки или стоянки Автомобиля в неположенном месте во время бронирования или по окончании бронирования.
+4.2.5. За ущерб, нанесенный в результате нарушения пожарной безопасности, включая, но не ограничиваясь перевозкой взрывоопасных и легковоспламеняющихся веществ, а также в результате перевозки запрещенных на территории Российской Федерации иных предметов и веществ.
+4.2.6. За ущерб, нанесенный в результате причинения Арендатором Автомобилю умышленных повреждений.
+4.2.7. За ущерб, нанесенный в результате заправки Автомобиля топливом, не предназначенным для данного типа двигателя Автомобиля.
+4.2.8. За ущерб, нанесенный при/или вследствие управления Автомобилем в состоянии алкогольного, наркотического опьянения, интоксикации, при действии медицинских препаратов или противопоказаний к управлению Автомобилем.
+4.2.9. За ущерб, нанесенный в результате управления Автомобилем при отсутствии у Арендатора права управления Автомобилем, в том числе без действующего водительского удостоверения.
+4.3. Арендодатель несет ответственность за предоставление для аренды неисправного Автомобиля без наличия необходимых документов на управление Автомобилем, при отсутствии полисов страхования Автомобиля.
+4.4. Стороны освобождаются от ответственности за частичное или полное неисполнение обязательств по настоящему Договору, если это неисполнение явилось следствием обстоятельств непреодолимой силы, возникших после заключения настоящего Договора в результате обстоятельств чрезвычайного характера, которые Стороны не могли предвидеть или предотвратить.
+4.5. При наступлении обстоятельств, указанных в п. 4.4 настоящего Договора, каждая Сторона должна без промедления известить о них в письменном виде другую Сторону.
+4.6. Извещение должно содержать данные о характере обстоятельств, а также официальные документы, удостоверяющие наличие этих обстоятельств и, по возможности, дающие оценку их влияния на возможность исполнения Стороной своих обязательств по настоящему Договору.
+4.7. В случае наступления обстоятельств, предусмотренных в п. 4.4 настоящего Договора, срок выполнения Стороной обязательств по настоящему Договору отодвигается соразмерно времени, в течение которого действуют эти обстоятельства и их последствия.
+4.8. Если наступившие обстоятельства, перечисленные в п. 4.4 настоящего Договора, и их последствия продолжают действовать более двух месяцев, Стороны проводят дополнительные переговоры для выявления приемлемых альтернативных способов исполнения настоящего Договора.
+
+5. Разрешение споров
+
+5.1. Все споры и разногласия, которые могут возникнуть при исполнении условий настоящего Договора, Стороны будут стремиться разрешать путем переговоров.
+5.2. Споры, не урегулированные путем переговоров, разрешаются в судебном порядке, установленном действующим законодательством Российской Федерации.
+
+6. Срок действия Договора. Порядок изменения
+и расторжения Договора
+
+6.1. Настоящий Договор вступает в силу с момента подписания его обеими Сторонами 
+6.2. Условия настоящего Договора могут быть изменены по взаимному согласию Сторон путем подписания письменного соглашения.
+
+7. Заключительные положения
+
+7.1. Все изменения и дополнения к настоящему Договору должны быть совершены в письменной форме и подписаны уполномоченными представителями Сторон.
+7.2. Стороны обязуются письменно извещать друг друга о смене реквизитов, адресов и иных существенных изменениях.
+7.3. Настоящий Договор составлен в двух экземплярах, имеющих равную юридическую силу, по одному для каждой из Сторон.
+7.4. Ни одна из Сторон не вправе передавать свои права и обязанности по настоящему Договору третьим лицам без письменного согласия другой Стороны.
+7.5. Во всем остальном, что не урегулировано настоящим Договором, Стороны руководствуются действующим законодательством Российской Федерации.
+
+8. Подписи Сторон
+
+</value>
+  </data>
+  <metadata name="carrentDataSetBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>181, 17</value>
+  </metadata>
+  <metadata name="carrentDataSetBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>437, 17</value>
+  </metadata>
+</root>

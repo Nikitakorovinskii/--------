@@ -1,0 +1,593 @@
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.Login.resources
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.Properties.Resources.resources
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.GenerateResource.cache
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.CoreCompileInputs.cache
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Каршеринг.exe.config
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Каршеринг.exe
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Каршеринг.pdb
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.exe
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.pdb
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\MySql.Data.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Google.Protobuf.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\ZstdNet.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\BouncyCastle.Crypto.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Ubiety.Dns.Core.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Memory.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Buffers.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\K4os.Compression.LZ4.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\K4os.Hash.xxHash.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Numerics.Vectors.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\MySql.Data.xml
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.exe.config
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.CopyComplete
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.Reginstration.resources
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\EntityFramework.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\GMap.NET.Core.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Newtonsoft.Json.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Data.SqlClient.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Security.Principal.Windows.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\EntityFramework.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Newtonsoft.Json.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Data.SqlClient.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Security.Principal.Windows.xml
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.MainMap.resources
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.Lk.resources
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Build.Framework.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Build.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Collections.Immutable.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Text.Json.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Text.Encodings.Web.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Utilities.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\de\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\en\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\es\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\it\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.Dogovor.resources
+D:\Курсач\попытка 1\Каршеринг\obj\Debug\Каршеринг.csprojAssemblyReference.cache
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Npgsql.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.ValueTuple.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Npgsql.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Buffers.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Collections.Immutable.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Memory.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Numerics.Vectors.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Text.Encodings.Web.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Text.Json.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\System.ValueTuple.xml
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Курсач\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Каршеринг.exe.config
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Каршеринг.exe
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Каршеринг.pdb
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\EntityFramework.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\GMap.NET.Core.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Npgsql.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Buffers.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Collections.Immutable.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SqlClient.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Memory.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Text.Json.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.ValueTuple.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Google.Protobuf.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ZstdNet.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\EntityFramework.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\MySql.Data.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Npgsql.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Buffers.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Collections.Immutable.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SqlClient.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Memory.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Text.Json.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.ValueTuple.xml
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.AssemblyReference.cache
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.SuggestedBindingRedirects.cache
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.Dogovor.resources
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.Lk.resources
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.Login.resources
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.MainMap.resources
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.Properties.Resources.resources
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.Reginstration.resources
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.GenerateResource.cache
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.CoreCompileInputs.cache
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.CopyComplete
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.exe
+C:\Users\shikh\Downloads\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.pdb
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Каршеринг.exe.config
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Каршеринг.exe
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Каршеринг.pdb
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\EntityFramework.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\EntityFramework.SqlServer.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\GMap.NET.Core.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\MySql.Data.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Newtonsoft.Json.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Npgsql.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Buffers.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Collections.Immutable.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SqlClient.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Memory.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Numerics.Vectors.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Security.Principal.Windows.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Text.Encodings.Web.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Text.Json.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.ValueTuple.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Google.Protobuf.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ZstdNet.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\BouncyCastle.Crypto.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Ubiety.Dns.Core.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Build.Framework.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Build.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\K4os.Compression.LZ4.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\K4os.Hash.xxHash.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\EntityFramework.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\EntityFramework.SqlServer.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\MySql.Data.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Newtonsoft.Json.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\Npgsql.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Buffers.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Collections.Immutable.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SqlClient.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Memory.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Numerics.Vectors.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Security.Principal.Windows.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Text.Encodings.Web.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Text.Json.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\System.ValueTuple.xml
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Utilities.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\de\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\en\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\es\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\it\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.csprojAssemblyReference.cache
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.exe.config
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.Dogovor.resources
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.Lk.resources
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.Login.resources
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.MainMap.resources
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.Properties.Resources.resources
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.Reginstration.resources
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.GenerateResource.cache
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.CoreCompileInputs.cache
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.CopyComplete
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.exe
+D:\Загрузки\popytka_1 (2)\попытка 1\Каршеринг\obj\Debug\Каршеринг.pdb
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.exe.config
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Dogovor.resources
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Lk.resources
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Login.resources
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.MainMap.resources
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Properties.Resources.resources
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Reginstration.resources
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.GenerateResource.cache
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.CoreCompileInputs.cache
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.exe
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.pdb
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Каршеринг.exe.config
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Каршеринг.exe
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Каршеринг.pdb
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\EntityFramework.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\EntityFramework.SqlServer.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\GMap.NET.Core.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\MySql.Data.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Newtonsoft.Json.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Npgsql.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Buffers.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Collections.Immutable.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SqlClient.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Memory.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Numerics.Vectors.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Security.Principal.Windows.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Text.Encodings.Web.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Text.Json.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.ValueTuple.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Google.Protobuf.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ZstdNet.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\BouncyCastle.Crypto.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Ubiety.Dns.Core.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Build.Framework.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Build.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\K4os.Compression.LZ4.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\K4os.Hash.xxHash.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\EntityFramework.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\EntityFramework.SqlServer.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\MySql.Data.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Newtonsoft.Json.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Npgsql.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Buffers.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Collections.Immutable.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SqlClient.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Memory.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Numerics.Vectors.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Security.Principal.Windows.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Text.Encodings.Web.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Text.Json.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.ValueTuple.xml
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Utilities.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\de\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\en\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\es\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\it\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.CopyComplete
+D:\Загрузки\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Pay.resources
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.AssemblyReference.cache
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.SuggestedBindingRedirects.cache
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Dogovor.resources
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Lk.resources
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Login.resources
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.MainMap.resources
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Pay.resources
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Properties.Resources.resources
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.Reginstration.resources
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.GenerateResource.cache
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.CoreCompileInputs.cache
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.exe
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.pdb
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Каршеринг.exe.config
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Каршеринг.exe
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Каршеринг.pdb
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\EntityFramework.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\GMap.NET.Core.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Npgsql.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Buffers.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Collections.Immutable.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SqlClient.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Memory.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Text.Json.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.ValueTuple.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Google.Protobuf.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ZstdNet.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\EntityFramework.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\MySql.Data.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\Npgsql.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Buffers.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Collections.Immutable.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SqlClient.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Data.SQLite.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Memory.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Text.Json.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\System.ValueTuple.xml
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\bin\Debug\ru\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\shikh\Downloads\Переделанные классы\попытка 1\Каршеринг\obj\Debug\Каршеринг.csproj.CopyComplete
