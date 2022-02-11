@@ -1,14 +1,13 @@
-"use strict";
 //import {createApp} from 'vue';
-const app = Vue.createApp({});
+var app = Vue.createApp({});
 app.component("name", {
-    data() {
+    data: function () {
         return {
             firstName: 'Nikita',
             lastName: 'Korovinskii',
             middleName: 'Sergeevich'
         };
     },
-    template: '<div>{{lastName}} {{firstName}} {{middleName}}</div>',
+    template: '<div>{{lastName}} {{firstName}} {{middleName}}</div>'
 });
 app.mount("#app");
