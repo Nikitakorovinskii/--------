@@ -1,20 +1,21 @@
-// исправить конфиг webpack
-const path = require('path')
-const HtmlWebpackPlugin = require('html-webpack-plugin')
+const path = require('path');
 
 module.exports = {
-    entry: {
-        main: path.resolve(__dirname, './index.js'),
-    },
-    output: {
-        path: path.resolve(__dirname, './dist'),
-        filename: '[index].bundle.js',
-    },
-    plugins: [
-        new HtmlWebpackPlugin({
-            title: 'webpack Boilerplate',
-            template: path.resolve(__dirname, './src/template.html'), // шаблон
-            filename: 'index.html', // название выходного файла
-        }),
+  entry: './NameScript.ts',
+  module: {
+    rules: [
+      {
+        test: /\.tsx?$/,
+        use: 'ts-loader',
+        exclude: /node_modules/,
+      },
     ],
-}
+  },
+  resolve: {
+    extensions: ['.tsx', '.ts', '.js'],
+  },
+  output: {
+    filename: 'bundle.js',
+    path: path.resolve(__dirname, 'dist'),
+  },
+};
