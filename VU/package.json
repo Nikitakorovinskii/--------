@@ -1,0 +1,17 @@
+{
+  "name": "vu",
+  "version": "1.0.0",
+  "description": "FirstProject",
+  "main": "Name.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./Name.js"
+  },
+  "keywords": [
+    "api",
+    "database"
+  ],
+  "author": "Korovinskii Nikita",
+  "license": "ISC",
+  "dependencies": {"vue":"^3.2.30"}
+}

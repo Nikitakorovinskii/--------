@@ -1,11 +1,14 @@
-const App = Vue.createApp({
+"use strict";
+//import {createApp} from 'vue';
+const app = Vue.createApp({});
+app.component("name", {
     data() {
         return {
             firstName: 'Nikita',
             lastName: 'Korovinskii',
             middleName: 'Sergeevich'
         };
-    }
+    },
+    template: '<div>{{lastName}} {{firstName}} {{middleName}}</div>',
 });
-// Registering and mounting our app
-App.mount('#app');
+app.mount("#app");
